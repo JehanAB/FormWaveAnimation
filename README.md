@@ -22,8 +22,8 @@ It provides a wavy, animated background effect for forms, enhancing visual appea
 
 ## 🛠️ Technologies Used
 -  HTML  
--  CSS (majority — 53.8%)  
--  JavaScript (minor logic)  
+-  CSS   
+-  JavaScript   
 
 ---
 
